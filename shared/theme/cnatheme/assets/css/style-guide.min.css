@@ -9,8 +9,8 @@ h2.theme-title {
 }
 
 h3.theme-subtitle {
-  color: #005694;
-  font-weight: 600;
+  color: #E57231;
+  font-weight: 700;
 }
 
 .descriptive-banner {
@@ -100,7 +100,7 @@ h3.theme-subtitle {
 }
 
 .tmp-palette .color-tint-five {
-  background-color: #DBFSFA;
+  background-color: #DBF;
   border-color: #BDEDF5;
 }
 
